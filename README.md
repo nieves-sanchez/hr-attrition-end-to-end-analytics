@@ -1,5 +1,8 @@
 # Vertex Digital Solutions — HR Attrition Analytics
 
+**📌 Mi contribución en este proyecto**  
+Este repositorio es mi fork del proyecto grupal. Me encargué del diseño de la base de datos relacional (3FN en MySQL), el desarrollo del pipeline ETL modularizado en Python (`src/`), la estructuración del repositorio y la documentación técnica.
+
 ## End-to-End Data Pipeline, Relational Modelling & Predictive Analytics
 
 Proyecto académico desarrollado por **Next Level People** como caso práctico de consultoría para Vertex Digital Solutions, en el marco de un programa formativo en Data Analytics.
